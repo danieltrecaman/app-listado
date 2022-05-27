@@ -1,0 +1,23 @@
+{
+  "name": "app-listado",
+  "version": "1.0.0",
+  "description": "aplicacion de un listado",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieltrecaman/app-listado.git"
+  },
+  "author": "Lemu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieltrecaman/app-listado/issues"
+  },
+  "homepage": "https://github.com/danieltrecaman/app-listado#readme",
+  "devDependencies": {
+    "electron": "^18.2.4"
+  }
+}
